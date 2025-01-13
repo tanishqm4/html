@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+   <from action="">
+    <input type="text" placeholder="enter your name "><br>
+    <input type="password" placeholder="password"><br>
+    male<input type="radio" name="gender">female <input type="radio">
+    DOB <input type="date"><br>
+     techincal skills<br>
+     c++<input type="checkbox">
+     python<input type="checbox">
+     java<input type="checkbox">
+
+     select city
+     <select>
+        <option value="pune">pune</option>
+        <option value="pune">latur</option>
+        <option value="pune">parbbhani</option>
+        <option value="pune">ujni</option>
+
+     </select>
+     <br>
+      choose color
+       <input type="color"
+
+       range 
+       <input type="range">
+       <input type="button" value="submit">
+       
+       <input type="file"
+
+    
+   </from>
+</body>
+</html>
