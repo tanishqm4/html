@@ -1,0 +1,24 @@
+<body>
+  <div class="box">
+    <section class="yellow">
+    </section>
+    <aside class="blue">
+    </aside>
+  </div>
+</body>
+  <style>
+    .box {
+      display: flex;
+      height: 200px;
+    }
+    .blue {
+      width:65%;
+      height: 200px;
+      background-color: blue;
+    }
+    .yellow {
+      width: 35%;
+      height: 200px;
+      background-color: yellow;
+    }
+  </style>
